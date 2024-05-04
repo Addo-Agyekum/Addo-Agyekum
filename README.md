@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is <span style="color: #0000FF;">Ohene-Agyekum Addo-Agyekum</span> and I'm a Data Scientist, from Accra, Ghana.</h3>
+<h3 align="left">Hi 👋! My name is Ohene-Agyekum Addo-Agyekum and I'm a Data Scientist, from Accra, Ghana.</h3>
 <h4 align="left">In my free time, I love to engage myself in UI/UX Designing.</h4>
 <h4 align="left">Currently working as a Robotics and Programming Facilitator.</h4>
 
