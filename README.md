@@ -35,7 +35,7 @@
   <a href="https://www.instagram.com/the_ohene">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
-  <a href="https://www.twitch.tv/your_channel">
+  <a href="https://www.twitch.tv/the_ohene">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo" />
   </a>
   <a href="https://discord.gg/your_server">
