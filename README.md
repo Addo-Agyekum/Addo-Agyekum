@@ -7,7 +7,7 @@
 ---
 
 ### 💡 About Me
-- 🎓 Data Scientist based in Accra, Ghana
+- 🎓 **Data Scientist** based in Accra, Ghana
 - 🎨 Passionate about **UI/UX design** in my free time
 - 🤖 Currently working as a **Robotics and Programming Facilitator**
 - 🌍 Exploring how to blend **creativity** and **tech** to solve real-world problems
